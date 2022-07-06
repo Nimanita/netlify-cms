@@ -13,6 +13,9 @@ module.exports = {
     jest: true,
     'cypress/globals': true,
   },
+  
+  
+  
   globals: {
     NETLIFY_CMS_VERSION: false,
     NETLIFY_CMS_APP_VERSION: false,
